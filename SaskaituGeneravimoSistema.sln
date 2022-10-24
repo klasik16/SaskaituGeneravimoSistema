@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaskaituGeneravimoSistema", "SaskaituGeneravimoSistema\SaskaituGeneravimoSistema.csproj", "{4D578CE7-5C75-4F0C-8878-C2AE62096411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D578CE7-5C75-4F0C-8878-C2AE62096411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D578CE7-5C75-4F0C-8878-C2AE62096411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D578CE7-5C75-4F0C-8878-C2AE62096411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D578CE7-5C75-4F0C-8878-C2AE62096411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60256D6E-82E2-4030-838F-F1E69EE38B73}
+	EndGlobalSection
+EndGlobal
